@@ -5,7 +5,6 @@
 </p>
 
 <!-- Social icons section -->
-  
-https://custom-icon-badges.demolab.com.svg?logo=locationlc
+
 
 ---

@@ -1,10 +1,13 @@
 <p align="center">
+  
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/124378648/230797940-974cfb24-5233-49e4-9395-0bb18550cc38.gif)
 
 </p>
 <!--
 **LColdridge/LColdridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Uploading Black Minimal Motivation Quote LinkedIn Banner.gif…]()
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ![Info Icon](https://user-images.githubusercontent.com/124378648/230789014-b8ec08fa-8002-47ca-9dd9-4d31be750c51.png)
 ![Mail Icon](https://user-images.githubusercontent.com/124378648/230789166-8297d974-e88c-4e82-8b48-86b281181f5f.png)
 ![Link Icon](https://user-images.githubusercontent.com/124378648/230789169-33ca154f-78bf-4249-98cb-6443dfa85ec6.png)
+![Portfolio Icon](https://user-images.githubusercontent.com/124378648/230789297-b7a77aa9-ad5b-455f-a347-0ac5ce2a3ba9.png)
 

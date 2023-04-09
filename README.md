@@ -6,6 +6,6 @@
 
 <!-- Social icons section -->
   
-https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=locationlc
+https://custom-icon-badges.demolab.com.svg?logo=locationlc
 
 ---

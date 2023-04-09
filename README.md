@@ -1,6 +1,6 @@
 <p align="center">
   
-![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/124378648/230797940-974cfb24-5233-49e4-9395-0bb18550cc38.gif)
+![GitHub Banner](https://user-images.githubusercontent.com/124378648/230798080-4f13aaa4-2d6c-4018-aa9d-8e08424eb6c6.gif)
 
 </p>
 <!--

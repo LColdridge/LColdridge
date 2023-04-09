@@ -1,10 +1,7 @@
 ### UNDER CONSTRUCTION!
 <p align="center">
- 
- ![Pink White Slate Grey Neon Thank You Animated Text Instagram Post Video](https://user-images.githubusercontent.com/124378648/230796126-76d7d7d2-1eaf-4bfe-ae00-ff36f09df87d.gif)
- 
+![ProfileGif](https://user-images.githubusercontent.com/124378648/230797431-1e03e0b2-d1b8-4af5-9570-df114f9afe60.gif)
 </p>
-
 <!--
 **LColdridge/LColdridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ![Location Icon](https://user-images.githubusercontent.com/124378648/230789012-f2e166cb-4eda-4bed-b813-2b9abdfd288f.png)
 ![Download Icon](https://user-images.githubusercontent.com/124378648/230789013-cc287f61-33cc-42f1-8150-8b8070fa5834.png)
 ![Info Icon](https://user-images.githubusercontent.com/124378648/230789014-b8ec08fa-8002-47ca-9dd9-4d31be750c51.png)
+![Mail Icon](https://user-images.githubusercontent.com/124378648/230789166-8297d974-e88c-4e82-8b48-86b281181f5f.png)
+![Link Icon](https://user-images.githubusercontent.com/124378648/230789169-33ca154f-78bf-4249-98cb-6443dfa85ec6.png)
+

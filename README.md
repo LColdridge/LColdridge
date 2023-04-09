@@ -8,6 +8,8 @@
 
 <!-- Icons section -->
 
+![Location](https://user-images.githubusercontent.com/124378648/230800658-5e041da4-bec0-40b6-876d-c2272589657b.png)
+
 
 
 ---

@@ -1,7 +1,9 @@
 ### UNDER CONSTRUCTION!
+
 <p align="center">
-![ProfileGif](https://user-images.githubusercontent.com/124378648/230797431-1e03e0b2-d1b8-4af5-9570-df114f9afe60.gif)
   
+![ProfileGif](https://user-images.githubusercontent.com/124378648/230797431-1e03e0b2-d1b8-4af5-9570-df114f9afe60.gif)
+
 </p>
 <!--
 **LColdridge/LColdridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,4 @@
 <p align="center">
-	
-![ProfileGif](https://user-images.githubusercontent.com/124378648/230797431-1e03e0b2-d1b8-4af5-9570-df114f9afe60.gif)
 
 </p>
 <!--

@@ -8,9 +8,6 @@
 
 <!-- Icons section -->
 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=locationlc
-
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
 
 
 ---

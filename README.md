@@ -6,9 +6,10 @@
 </p>
 
 <!-- Icons section -->
+
 <p align="center">
   
-![Location](https://user-images.githubusercontent.com/124378648/230800658-5e041da4-bec0-40b6-876d-c2272589657b.png)
+[![Location]((https://user-images.githubusercontent.com/124378648/230800658-5e041da4-bec0-40b6-876d-c2272589657b.png)](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)
 
 </p>
 

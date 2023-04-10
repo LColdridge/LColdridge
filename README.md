@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:l.coldridge@googlemail.com?
             subject=subject text">
-    <img src="https://user-images.githubusercontent.com/124378648/230801797-4ec7723f-41e1-428f-af88-cc352eb97750.png"></a> [<img src="https://user-images.githubusercontent.com/124378648/230801176-ca2ff105-c6ad-4caa-8c34-f06819d6d637.png">]
+    <img src="https://user-images.githubusercontent.com/124378648/230801797-4ec7723f-41e1-428f-af88-cc352eb97750.png"></a> <img src="https://user-images.githubusercontent.com/124378648/230801176-ca2ff105-c6ad-4caa-8c34-f06819d6d637.png">
   
 </p>
 

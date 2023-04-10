@@ -36,10 +36,6 @@
  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
-   Markup : - Bullet list
-   - Bullet 1
-   - Bullet 2
-    - Bullet 3
 
 
 

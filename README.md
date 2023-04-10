@@ -18,7 +18,10 @@
   
  </dev>
  
- ![hanover](https://user-images.githubusercontent.com/124378648/230915840-a33af4a6-863e-450b-9dff-ead6f36f9091.png)
+ <img src="https://user-images.githubusercontent.com/124378648/230915840-a33af4a6-863e-450b-9dff-ead6f36f9091.png"
+      width="50" />
+ 
+ 
 
 
  ^  | ^ | ^ | ^ | ^ | ^

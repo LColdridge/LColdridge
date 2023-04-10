@@ -36,8 +36,8 @@
  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
-* Microsoft
-   * PowerPoint 
+- Microsoft
+   Powerpoint
 
 
 

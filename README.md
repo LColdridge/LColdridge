@@ -15,9 +15,7 @@
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230806273-7b9805f2-d790-4722-aaaf-b65de5303a2d.png">](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230806519-9e3ad8a0-fffc-4611-8b08-1acc5154a106.png">](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)</span>
    <span> ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)</span>
-  
  </dev>
- 
  <img src="https://user-images.githubusercontent.com/124378648/230915840-a33af4a6-863e-450b-9dff-ead6f36f9091.png"
       width="100" />
  

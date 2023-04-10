@@ -29,7 +29,7 @@
      width="250" />
  
 <img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
-     width="100" />
+     width="150" />
  
 
 

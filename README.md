@@ -36,10 +36,6 @@
  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
-- Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau
-- Collecting, compiling, and cleaning data
--Identifying
-   
 
 
 

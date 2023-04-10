@@ -23,7 +23,7 @@
  <!-- Dropdowns -->
  
  <details open> 
-  <summary><h2>🌠 Achievements</h2></summary>
+  <summary><h2>Achievements</h2></summary>
 
 
 

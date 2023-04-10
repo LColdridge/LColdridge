@@ -17,6 +17,11 @@
      width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
     <span><img src="https://user-images.githubusercontent.com/124378648/230934513-95bf6d63-7008-48b0-950d-581e4287faaa.png"
      width="150" />[](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
+    <span>[<img src="https://user-images.githubusercontent.com/124378648/230933516-7a54bbe6-b36f-4562-9664-8aa55c46e48b.png"
+     width="150" />](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)</span>
+    
+    <span> ![About]<img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
+     width="150" /></span>
    
    
     
@@ -26,7 +31,6 @@
   
     
     
-   <span>[<img src="https://user-images.githubusercontent.com/124378648/230806273-7b9805f2-d790-4722-aaaf-b65de5303a2d.png">](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
     
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230806519-9e3ad8a0-fffc-4611-8b08-1acc5154a106.png">](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)</span>
     
@@ -34,8 +38,7 @@
  </dev>
  
 
-<img src="https://user-images.githubusercontent.com/124378648/230934513-95bf6d63-7008-48b0-950d-581e4287faaa.png"
-     width="150" />
+
 <img src="https://user-images.githubusercontent.com/124378648/230933516-7a54bbe6-b36f-4562-9664-8aa55c46e48b.png"
      width="150" />
  <img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"

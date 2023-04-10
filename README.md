@@ -13,7 +13,7 @@
          width="150" /></span>
    
     <span>[img src="https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
-     width="150"] /></span>
+     width="150" />]</span>
     
   
     

@@ -39,8 +39,11 @@
    
    Technical Skills  | Soft Skills
 ------------- | -------------
-Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Content Cell
-Collecting, compiling, and cleaning data | Content Cell
+Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Ability to work independently or as a team
+Collecting, compiling, and cleaning data | Problem solving, logical and critical thinking
+Identifying, analysing, and interpreting data, trends, and patterns | Quick and willing to learn
+Producing clear and concise data visualisations | High level of accuracy and detail
+Basics of Python, SQL and R | Strong written and verbal communication
 
 
 

@@ -15,8 +15,7 @@
      width="150" />](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
      width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
-    <span><img src="https://user-images.githubusercontent.com/124378648/230934513-95bf6d63-7008-48b0-950d-581e4287faaa.png"
-     width="150" />](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
+    
    
    
     

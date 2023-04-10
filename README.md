@@ -39,7 +39,7 @@
    
    First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
+Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Content Cell
 Content Cell  | Content Cell
 
 

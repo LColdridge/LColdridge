@@ -37,10 +37,10 @@
   <details>
    <summary><h2>Skills</h2></summary>
    
-   First Header  | Second Header
+   Microsoft  | 
 ------------- | -------------
 Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Content Cell
-Content Cell  | Content Cell
+Content Cell  | 
 
 
 

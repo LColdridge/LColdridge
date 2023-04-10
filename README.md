@@ -36,6 +36,10 @@
  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
+   
+   * Bullet list
+   * Bullet 1
+   * Bullet 2
 
 
 

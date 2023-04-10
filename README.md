@@ -15,7 +15,7 @@
 
 DOWNLOAD LINK TEST
 
-[<img src="https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png">](file:///C:/Users/lcold/OneDrive/Desktop/GITHUB/Lucy%20Coldridge%20CV%20PDF.pdf)
+[<img src="https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png">](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)
   
 
 

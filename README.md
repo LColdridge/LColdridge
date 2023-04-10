@@ -20,7 +20,7 @@
  
  ^  | ^ | ^ | ^ | ^ | ^
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-Email Me  | Location | LinkedIn | CV | Gallery | About Me
+Email | Location | LinkedIn | CV | Gallery | About Me
 
 --- 
  

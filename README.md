@@ -16,7 +16,7 @@
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
      width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
     <span>[img src="https://user-images.githubusercontent.com/124378648/230941539-3e406396-cb5a-4e82-bc0a-cb34952c16db.png"
-     width="150" />](https://github.com/LColdridge/Dashboard_Gallery.git)</span>
+     width="150" />]</span>
   
  
 

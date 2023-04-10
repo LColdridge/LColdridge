@@ -18,6 +18,8 @@
   
  </dev>
  
+ ![glw](https://user-images.githubusercontent.com/124378648/230914968-2eda154d-6ede-4aa2-aefa-980da3eba9d8.png)
+
  ^  | ^ | ^ | ^ | ^ | ^
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 Email | Location | LinkedIn | CV | Gallery | About

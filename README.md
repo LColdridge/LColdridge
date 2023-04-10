@@ -45,8 +45,8 @@ Identifying, analysing, and interpreting data, trends, and patterns | Quick and 
 Producing clear and concise data visualisations | High level of accuracy and detail
 Basics of Python, SQL and R | Strong written and verbal communication
  </details>
-
-
+<details>
+<summary><h2>Stats</h2></summary>
 
 
 

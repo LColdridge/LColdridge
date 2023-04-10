@@ -17,11 +17,6 @@
      width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230941804-b0ae9813-9d95-4002-a0c8-e64f0b72c8d4.png"
             width="150" />](https://github.com/LColdridge/Dashboard_Gallery.git)</span>
-  
- 
-
-![Gallery Button](https://user-images.githubusercontent.com/124378648/230941804-b0ae9813-9d95-4002-a0c8-e64f0b72c8d4.png)
-
 
 --- 
  

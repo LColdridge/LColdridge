@@ -14,7 +14,7 @@
 --- 
 
 
-![Link](https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png)
+![Link](https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png)(https://www.linkedin.com/in/lucy-coldridge)
 
 
 

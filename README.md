@@ -40,7 +40,6 @@
    Microsoft  | Header 2
 ------------- | -------------
 Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Content Cell
-Content Cell  | Content
 
 
 

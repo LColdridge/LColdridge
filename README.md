@@ -37,7 +37,7 @@
   <details>
    <summary><h2>Skills</h2></summary>
    
-   Microsoft  | Header 2
+   Technical Skills  | Soft Skills
 ------------- | -------------
 Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Content Cell
 

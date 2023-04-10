@@ -44,6 +44,7 @@ Collecting, compiling, and cleaning data | Problem solving, logical and critical
 Identifying, analysing, and interpreting data, trends, and patterns | Quick and willing to learn
 Producing clear and concise data visualisations | High level of accuracy and detail
 Basics of Python, SQL and R | Strong written and verbal communication
+ </details>
 
 
 

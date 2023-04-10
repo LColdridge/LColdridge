@@ -20,8 +20,8 @@
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230933516-7a54bbe6-b36f-4562-9664-8aa55c46e48b.png"
      width="150" />](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)</span>
     
-    <span> ![About]<img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
-     width="150" /></span>
+    <span> ![<img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
+     width="150" />]</span>
    
    
     

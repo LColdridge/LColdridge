@@ -8,11 +8,13 @@
 
 <!-- Icons section -->
 <p align="center">
+  
    <a href="mailto:l.coldridge@googlemail.com?
             subject=subject text">
      <img src="https://user-images.githubusercontent.com/124378648/230801797-4ec7723f-41e1-428f-af88-cc352eb97750.png"></a>
   [<img src="https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png">](https://www.linkedin.com/in/lucy-coldridge)
-  </p>
+ 
+</p>
   
   
   

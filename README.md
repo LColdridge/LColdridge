@@ -29,11 +29,8 @@
        width="500" />
   <img src="https://user-images.githubusercontent.com/124378648/230813152-0c62d3a6-f202-4ff3-bae8-f0d66494ed2a.png"
        width="500" />
-
- 
-![ITSQL](https://user-images.githubusercontent.com/124378648/230813152-0c62d3a6-f202-4ff3-bae8-f0d66494ed2a.png)
-![ITR](https://user-images.githubusercontent.com/124378648/230813170-a6eeb49f-ffcf-477f-9d93-4f5d4fecf059.png)
-  
+  <img src="https://user-images.githubusercontent.com/124378648/230813170-a6eeb49f-ffcf-477f-9d93-4f5d4fecf059.png"
+       width="500" />
   
 
 

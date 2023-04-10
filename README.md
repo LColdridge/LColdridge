@@ -33,8 +33,7 @@
        width="500" />
   <img src="https://user-images.githubusercontent.com/124378648/230813170-a6eeb49f-ffcf-477f-9d93-4f5d4fecf059.png"
        width="500" />
-  
-  ---
+---
 
 
 

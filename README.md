@@ -16,18 +16,7 @@
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230806519-9e3ad8a0-fffc-4611-8b08-1acc5154a106.png">](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)</span>
    <span> ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)</span>
  </dev>
- 
-
- 
- <img src="https://user-images.githubusercontent.com/124378648/230930848-87933ae9-4b10-438f-bc90-adf8f7d308fb.png"
-      width="150" /> 
- <img src="https://user-images.githubusercontent.com/124378648/230918538-d80eb96e-e8a7-4b51-97b8-6e6664d4ecc5.png"
-      width="250" />
- <img src="https://user-images.githubusercontent.com/124378648/230929451-2e5a5065-aaed-45a2-a619-de16969d5975.png"
-      width="250" />
-<img src="https://user-images.githubusercontent.com/124378648/230929998-cb85bed1-d721-4b91-8e9c-0c0fba8f0c26.png"
-     width="250" />
- 
+  
 <img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
      width="150" />
  

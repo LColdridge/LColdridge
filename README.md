@@ -36,7 +36,11 @@
  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
-- Word, Excel, Outlook, PowerPoint
+   Markup : - Bullet list
+   - Bullet 1
+   - Bullet 2
+    - Bullet 3
+
 
 
 

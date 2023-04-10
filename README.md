@@ -10,17 +10,17 @@
    <span><a href="mailto:l.coldridge@googlemail.com?
     subject=subject text">
     <img src="https://user-images.githubusercontent.com/124378648/230936618-6bfd2d0f-b312-4638-9271-a6ee1730f072.png"
-         width="150" /></span>
+         width="130" /></span>
      <span>[<img src="https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
-     width="150" />](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
+     width="130" />](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
-     width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
+     width="130" />](https://www.linkedin.com/in/lucy-coldridge)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230941804-b0ae9813-9d95-4002-a0c8-e64f0b72c8d4.png"
-            width="150" />](https://github.com/LColdridge/Dashboard_Gallery.git)</span>
+            width="130" />](https://github.com/LColdridge/Dashboard_Gallery.git)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230942446-829acd5e-cec1-4e5c-91f7-d43cfb4bfd87.png"
-            width="150" />](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
+            width="130" />](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/231005400-63368a25-1478-42ad-bf62-32bf5aa38e55.png"
-            width="150" />](https://github.com/LColdridge/LColdridge/blob/main/About%20Me.png)</span>
+            width="130" />](https://github.com/LColdridge/LColdridge/blob/main/About%20Me.png)</span>
 
 --- 
  

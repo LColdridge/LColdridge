@@ -26,10 +26,8 @@
  <img src="https://user-images.githubusercontent.com/124378648/230917330-c7b46af7-768b-405f-b1aa-2e770c0c16ef.png"
       width="100" />
  
+ ![Gallery](https://user-images.githubusercontent.com/124378648/230917896-3e624203-8044-4e3f-8def-840bc701b788.png)
 
- ^  | ^ | ^ | ^ | ^ | ^
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-Email | Location | LinkedIn | CV | Gallery | About
 
 --- 
  

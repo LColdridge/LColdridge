@@ -40,6 +40,7 @@
    Technical Skills  | Soft Skills
 ------------- | -------------
 Word, Excel, Outlook, PowerPoint, OneDrive, Teams, Skype, GitHub, Power BI, Tableau  | Content Cell
+Collecting, compiling, and cleaning data | Content Cell
 
 
 

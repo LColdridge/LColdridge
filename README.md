@@ -47,6 +47,7 @@ Basics of Python, SQL and R | Strong written and verbal communication
  </details>
 <details>
 <summary><h2>Stats</h2></summary>
+
  ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LColdridge&show_icons=true&theme=midnight-purple)
 
 

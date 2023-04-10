@@ -27,9 +27,9 @@
       width="100" />
  
  <img src="https://user-images.githubusercontent.com/124378648/230918538-d80eb96e-e8a7-4b51-97b8-6e6664d4ecc5.png"
-      width="200" />
+      width="250" />
  <img src="https://user-images.githubusercontent.com/124378648/230929451-2e5a5065-aaed-45a2-a619-de16969d5975.png"
-      width="200" />
+      width="250" />
 
  
 

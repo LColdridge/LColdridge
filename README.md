@@ -24,9 +24,11 @@
  
  <details open> 
   <summary><h2>Achievements</h2></summary>
+
   ![ITP](https://user-images.githubusercontent.com/124378648/230813133-c637fead-901d-441d-934f-776971616d3f.png)
 ![ITSQL](https://user-images.githubusercontent.com/124378648/230813152-0c62d3a6-f202-4ff3-bae8-f0d66494ed2a.png)
 ![ITR](https://user-images.githubusercontent.com/124378648/230813170-a6eeb49f-ffcf-477f-9d93-4f5d4fecf059.png)
+  
   </details>
 
 

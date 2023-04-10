@@ -25,7 +25,7 @@
  <details> 
   <summary><h2>Achievements</h2></summary>
   
-  **`Current Enrollment: Intermediate Python (30& complete)`**
+  **`Current Enrollment: Intermediate Python (30% complete)`**
   
   <img src="https://user-images.githubusercontent.com/124378648/230813133-c637fead-901d-441d-934f-776971616d3f.png"
        width="500" />

@@ -19,8 +19,8 @@
             width="150" />](https://github.com/LColdridge/Dashboard_Gallery.git)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230942446-829acd5e-cec1-4e5c-91f7-d43cfb4bfd87.png"
             width="150" />](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
-    
-    
+    <span>[<img src="https://user-images.githubusercontent.com/124378648/231005400-63368a25-1478-42ad-bf62-32bf5aa38e55.png"
+            width="150" />](https://github.com/LColdridge/LColdridge/blob/main/About%20Me.png)</span>
 
 --- 
  

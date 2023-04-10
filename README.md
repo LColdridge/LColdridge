@@ -17,10 +17,11 @@
    <span> ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)</span>
  </dev>
   
-<img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
+<img src="https://user-images.githubusercontent.com/124378648/230933516-7a54bbe6-b36f-4562-9664-8aa55c46e48b.png"
+     width="150" />
+ <img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
      width="150" />
  
-
 
 
 --- 

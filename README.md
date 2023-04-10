@@ -7,24 +7,27 @@
 <!-- Icons section -->
 <div align="center">
  
-  <span><a href="mailto:l.coldridge@googlemail.com?
-           subject=subject text">
-    <img src="https://user-images.githubusercontent.com/124378648/230801797-4ec7723f-41e1-428f-af88-cc352eb97750.png" /></span>
-   
    <span><a href="mailto:l.coldridge@googlemail.com?
     subject=subject text">
     <img src="https://user-images.githubusercontent.com/124378648/230936618-6bfd2d0f-b312-4638-9271-a6ee1730f072.png"
          width="150" /></span>
-   
+     <span>[<img src="[https://user-images.githubusercontent.com/124378648/230801176-ca2ff105-c6ad-4caa-8c34-f06819d6d637.png">](https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
+     width="150" />)](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
+    
+  
+    
+    
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230801176-ca2ff105-c6ad-4caa-8c34-f06819d6d637.png">](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
+    
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png">](https://www.linkedin.com/in/lucy-coldridge)</span>
+    
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230806273-7b9805f2-d790-4722-aaaf-b65de5303a2d.png">](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)</span>
+    
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230806519-9e3ad8a0-fffc-4611-8b08-1acc5154a106.png">](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)</span>
+    
    <span> ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)</span>
  </dev>
  
- <img src="https://user-images.githubusercontent.com/124378648/230936618-6bfd2d0f-b312-4638-9271-a6ee1730f072.png"
-      width="150" />
 <img src="https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
      width="150" />
 <img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"

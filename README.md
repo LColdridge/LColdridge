@@ -17,6 +17,10 @@
    <span> ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)</span>
   
  </dev>
+ 
+ ^  | ^ | ^
+------------- | ------------- | -------------
+Email Me  | Location | LinkedIn
 
 --- 
  

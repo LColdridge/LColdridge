@@ -27,7 +27,7 @@
       width="100" />
  
  <img src="https://user-images.githubusercontent.com/124378648/230917896-3e624203-8044-4e3f-8def-840bc701b788.png"
-      width="100" />
+      width="200" />
  
 
 

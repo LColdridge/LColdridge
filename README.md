@@ -7,7 +7,7 @@
 ---
 
 <!-- Icons section -->
-<div style="text-align: right">  
+
   <a href="mailto:l.coldridge@googlemail.com?
            subject=subject text">
     <img src="https://user-images.githubusercontent.com/124378648/230801797-4ec7723f-41e1-428f-af88-cc352eb97750.png"></a>
@@ -16,7 +16,7 @@
     [<img src="https://user-images.githubusercontent.com/124378648/230806273-7b9805f2-d790-4722-aaaf-b65de5303a2d.png">](https://github.com/LColdridge/LColdridge/blob/main/Lucy%20Coldridge%20CV%20PDF.pdf)
     [<img src="https://user-images.githubusercontent.com/124378648/230806519-9e3ad8a0-fffc-4611-8b08-1acc5154a106.png">](https://github.com/LColdridge/Dashboards_Gallery/blob/main/README.md)
        ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)
-       </div>
+      
  
 --- 
 

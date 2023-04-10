@@ -28,7 +28,9 @@
 <img src="https://user-images.githubusercontent.com/124378648/230929998-cb85bed1-d721-4b91-8e9c-0c0fba8f0c26.png"
      width="250" />
  
-![About Me Button](https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png)
+<img src="https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png"
+     width="100" />
+ 
 
 
 

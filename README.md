@@ -15,11 +15,12 @@
      width="150" />](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
     <span>[<img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
      width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
-    <span>[img src="https://user-images.githubusercontent.com/124378648/230941539-3e406396-cb5a-4e82-bc0a-cb34952c16db.png"
-     width="150" />]</span>
+    <span>[img src="https://user-images.githubusercontent.com/124378648/230941804-b0ae9813-9d95-4002-a0c8-e64f0b72c8d4.png"
+     width="150" />
   
  
 
+![Gallery Button](https://user-images.githubusercontent.com/124378648/230941804-b0ae9813-9d95-4002-a0c8-e64f0b72c8d4.png)
 
 
 --- 

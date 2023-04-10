@@ -13,13 +13,15 @@
          width="150" /></span>
      <span>[<img src="https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
      width="150" />](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
+    <span>[<img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
+     width="150" />](https://www.linkedin.com/in/lucy-coldridge)</span>
    
    
     
   
     
     
-   <span>[<img src="https://user-images.githubusercontent.com/124378648/230801176-ca2ff105-c6ad-4caa-8c34-f06819d6d637.png">](https://www.google.co.uk/maps/place/Northampton/@52.2397844,-0.8803981,12z/data=!3m1!4b1!4m6!3m5!1s0x487704236e4aa273:0xcdf495d0d9e86209!8m2!3d52.237065!4d-0.8944421!16zL20vMGgzMF8)</span>
+  
     
    <span>[<img src="https://user-images.githubusercontent.com/124378648/230803952-27e23431-4971-489a-9920-6bb79ef2f4fe.png">](https://www.linkedin.com/in/lucy-coldridge)</span>
     
@@ -30,8 +32,7 @@
    <span> ![About](https://user-images.githubusercontent.com/124378648/230807934-d5ea14b3-ff7b-402c-8ae3-da635717c567.png)</span>
  </dev>
  
-<img src="https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
-     width="150" />
+
 <img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
      width="150" />
 <img src="https://user-images.githubusercontent.com/124378648/230934513-95bf6d63-7008-48b0-950d-581e4287faaa.png"

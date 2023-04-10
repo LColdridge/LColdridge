@@ -28,11 +28,7 @@
 <img src="https://user-images.githubusercontent.com/124378648/230929998-cb85bed1-d721-4b91-8e9c-0c0fba8f0c26.png"
      width="250" />
  
- 
- 
-
-![Gallery Button](https://user-images.githubusercontent.com/124378648/230931939-b5ec1bf3-4fd3-455a-a0f1-92a7e6e0f58b.png)
-
+![About Me Button](https://user-images.githubusercontent.com/124378648/230932782-9f576ce0-8a63-4c34-9022-7a5ca357b444.png)
 
 
 

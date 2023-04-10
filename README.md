@@ -47,8 +47,8 @@ Basics of Python, SQL and R | Strong written and verbal communication
  </details>
 <details>
 <summary><h2>Stats</h2></summary>
-
  ![](https://github-readme-stats.vercel.app/api?username=LColdridge&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ </details>
 
 
 

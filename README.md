@@ -36,6 +36,7 @@
  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
+   
    * Word, PowerPoint
    * Canva, GIMP
    * Etc, Etc

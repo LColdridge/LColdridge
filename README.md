@@ -19,7 +19,7 @@
  
  
 <img src="https://user-images.githubusercontent.com/124378648/230936139-15651a94-80f2-4fd9-8641-100c11c849d7.png"
-     width="150"
+     width="150" />
 <img src="https://user-images.githubusercontent.com/124378648/230935137-2eea28b0-cd25-46d6-bd29-e4ece5cb9fcf.png"
      width="150" />
 <img src="https://user-images.githubusercontent.com/124378648/230934513-95bf6d63-7008-48b0-950d-581e4287faaa.png"

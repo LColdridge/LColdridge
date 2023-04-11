@@ -29,6 +29,9 @@
  <details> 
   <summary><h2>Achievements</h2></summary>
   
+  ![Just IT](https://user-images.githubusercontent.com/124378648/231238278-6f97487c-b480-45c8-b582-34cbae6cfbf8.png)
+
+  
   **`Current Enrollment: Intermediate Python (30% complete)`**
   
   <img src="https://user-images.githubusercontent.com/124378648/230813133-c637fead-901d-441d-934f-776971616d3f.png"

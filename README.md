@@ -40,8 +40,9 @@
        width="500" />
   <img src="https://user-images.githubusercontent.com/124378648/230813170-a6eeb49f-ffcf-477f-9d93-4f5d4fecf059.png"
        width="500" />
-  ![Coursera SQL ](https://user-images.githubusercontent.com/124378648/231585348-cd580883-3e63-4370-b175-d5fe4b42ad43.png)
- </details>  
+  <img src="https://user-images.githubusercontent.com/124378648/231585348-cd580883-3e63-4370-b175-d5fe4b42ad43.png"
+       width="500" />
+  </details>  
   <details>
    <summary><h2>Skills</h2></summary>
    
